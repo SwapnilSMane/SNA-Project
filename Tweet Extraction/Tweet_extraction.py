@@ -30,10 +30,10 @@ df
 # In[4]:
 
 
-consumer_key = '7dzK7q6IrWCcq5Kjo3q5YDrGJ'
-consumer_secret = 'd52zgvIjSq53L4TIltmpbN4iE0vZtrZAVkdz0Fw2YHdlOqwMS7'
-access_token = '948413893038125056-u5qBXf9dtb4aD4MJKewEIk75N7Tf40B'
-access_token_secret= '6pdoGlxNDFgHvB3Y1tTJVTTD3UXddCSf4ABBZVMh1xPxC' 
+consumer_key = 'xxx'
+consumer_secret = 'xxx'
+access_token = 'xxx'
+access_token_secret= 'xxx' 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
